@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Data Analytics Quiz</string>
+
+    <!--Enter Your Name Field-->
+    <string name="enter_your_name">Enter Your Name</string>
+
+    <!--Question 1-->
+    <string name="num_question_1">Question 1</string>
+    <string name="question_1">Analysts engage in all of the following activities, except:</string>
+
+    <!--Answers to the question 1-->
+    <string name="answer_1_1">cleaning data to remove unnecessary data from the mix</string>
+    <string name="answer_1_2">looking for data to uncover issues in a process</string>
+    <string name="answer_1_3">building reports, as well as queries and spreadsheets</string>
+    <string name="answer_1_4">changing data values</string>
+
+    <!--Question 2-->
+    <string name="num_question_2">Question 2</string>
+    <string name="question_2">Data analysts work in a variety of different ways, depending on the project. Data analysts, at a minimum, do what for their data science team?</string>
+
+    <!--Answers to the question 2-->
+    <string name="answer_2_1">Deliver statistical talking points.</string>
+    <string name="answer_2_2">Provide historical perspective.</string>
+    <string name="answer_2_3">Take meeting minute notes.</string>
+    <string name="answer_2_4">Bring data to the team for additional analysis.</string>
+
+    <!--Question 3-->
+    <string name="num_question_3">Question 3</string>
+    <string name="question_3">If you are a beginner to data analysis, what is the first thing you should check when you build data queries?</string>
+
+    <!--Answers to the question 3-->
+    <string name="answer_3_1">record counts</string>
+    <string name="answer_3_2">differentials</string>
+    <string name="answer_3_3">calculations</string>
+    <string name="answer_3_4">workflow diagrams</string>
+
+    <!--Question 4-->
+    <string name="num_question_4">Question 4</string>
+    <string name="question_4">Using Above Images which graphs are match these options:</string>
+
+    <!--Answers to the question 4-->
+    <string name="histogram">Histogram</string>
+    <string name="pictograph">Pictograph</string>
+    <string name="piechart">Pie chart</string>
+    <string name="bargraph">Bar graph</string>
+    <string name="stemchart">Stem Chart</string>
+
+    <!--Question 5-->
+    <string name="num_question_5">Question 5</string>
+    <string name="question_5">Data ____ ensures that we have quality data.</string>
+
+    <!--Button "End Test"-->
+    <string name="end_test">End test</string>
+
+    <!--Test Result-->
+    <string name="test_result_name">"Name: "</string>
+    <string name="test_result">Test Result</string>
+    <string name="test_result_score">"Score: "</string>
+</resources>
